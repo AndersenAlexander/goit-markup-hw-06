@@ -1,4 +1,4 @@
-Web Studio - Responsive Design
+Web Studio - Responsive Design 
 
 Welcome to the last phase of the Web Studio project! At this stage, the adaptive layout has been successfully implemented for all elements of the main page, ensuring a smooth appearance and optimal functionality on various screen sizes and devices. Here are the specific details of this stage:
 
